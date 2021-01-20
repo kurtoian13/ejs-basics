@@ -1,9 +1,9 @@
 # ejs-basics
 project I created to better understand how ejs works.
 
-RUN % NPM INSTALL
+RUN %   NPM INSTALL
 
-RUN % NPM START
+RUN %   NPM START
 
 SITE WILL LOAD ON LACALHOST 3000
 
